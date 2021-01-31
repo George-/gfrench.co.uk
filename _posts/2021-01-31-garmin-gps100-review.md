@@ -3,7 +3,7 @@ title: "30 years of Garmin - A review of the GPS100 in 2021"
 layout: post
 ---
 
-I recently purchased a Garmin GPS100 AVD, this is the first product Garmin (previously ProNav) launched in 1991 for roughly $2500 new, this one cost me just £100 second hand on eBay in 2021. You may wonder why I purchased one of these when we have so many modern navigation tools at our disposal today, but the aircraft I currently fly from Old Buckenham airfield, a 1967 Piper Cherokee 140, still has one of these GPS100 units panel-mounted in the cockpit and until now I’ve never used it or had much reason to.
+I recently purchased a Garmin GPS100 AVD, this is the first product Garmin (previously ProNav) launched in 1991 for roughly $2500 new, this one cost me just £100 second hand on eBay in 2021. You may wonder why I purchased such an old piece of kit when we have so many modern navigation tools at our disposal today, but the aircraft I currently fly from Old Buckenham airfield, a 1967 Piper Cherokee 140, still has one of these GPS100 units panel-mounted in the cockpit and until now I’ve never used it or had much reason to.
 
 ![Garmin GPS100](https://github.com/George-/gfrench.co.uk/raw/master/_posts/images/garmin_gps100_battery_replacement.jpg)
 
